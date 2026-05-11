@@ -1,0 +1,13 @@
+name = "Kisara Dream"
+author = "shi9uma"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
+
+[versions]
+minecraft = "1.20.1"
+forge = "47.2.20"

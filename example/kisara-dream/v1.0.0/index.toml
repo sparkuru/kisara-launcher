@@ -1,0 +1,20 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "1a2b3c4d5e6f7890abcdef1234567890abcdef1234567890abcdef1234567890"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "2b3c4d5e6f7890abcdef1234567890abcdef1234567890abcdef1234567890ab"
+metafile = true
+
+[[files]]
+file = "mods/forgematica.pw.toml"
+hash = "3c4d5e6f7890abcdef1234567890abcdef1234567890abcdef1234567890abcd"
+metafile = true
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "4d5e6f7890abcdef1234567890abcdef1234567890abcdef1234567890abcdef"

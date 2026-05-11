@@ -1,0 +1,13 @@
+name = "Sodium"
+filename = "sodium-forge-0.5.8-mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AANobbMI/versions/sodversion/sodium-forge-0.5.8-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "e5f6789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890abcdef123456"
+
+[update]
+[update.modrinth]
+mod-id = "AANobbMI"
+version = "sodversionabc"

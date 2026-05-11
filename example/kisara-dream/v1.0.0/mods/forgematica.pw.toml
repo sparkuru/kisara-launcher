@@ -1,0 +1,13 @@
+name = "Forgematica"
+filename = "forgematica-0.1.3-mc1.20.1.jar"
+side = "client"
+
+[option]
+optional = true
+default = false
+description = "投影 mod，方便建筑党查看建筑蓝图。不需要就不勾。"
+
+[download]
+url = "https://github.com/maruohon/forgematica/releases/download/forgematica-0.1.3/forgematica-0.1.3-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "c3d4e5f6789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890abcdef12"
